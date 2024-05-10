@@ -23,8 +23,11 @@ How about a straightforward, user-friendly app where you type in your location a
 ## Technology Stack
 
 1)Front end (HTML/CSS,avaScript (with React, Vue.js, or Angular))
+
 2)Back end (Node.js (JavaScript)Express.js (Node.js framework))
+
 3)Database (MongoDB (NoSQL database))
+
 4)API Integration (AWS, Google Cloud Platform, or Microsoft Azure for cloud deployment Apache or Nginx as web servers).
 
 ## Dependencies
